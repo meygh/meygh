@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br>
 💡 Currently hacking on my own website.
 <br>
-<h2>Some Tools I Have Used And Learned</h2>
+<h2>Some Tools I Have Used</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" height="55" alt="linux-meygh"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55" alt="docker-meygh" title="Docker and Docker Compose" />
