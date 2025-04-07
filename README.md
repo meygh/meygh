@@ -15,16 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-✨ My name is **Meisam Ghanbari**. I'm a **Web developer** who loves learning new technologies and frameworks.
+✨ My name is **Meisam Ghanbari**. I'm a **Software Engineer** who live programming.
 <br>
 🧩 My favorite hobbies are programming 🤡, Watching Moviews , Skiing ⛷️ 
 <br>
 🎈 Feel free to contact me! I'm always available to discuss about Tech news, programming tricks and also to help you with your projects.
 <br>
-💡 Currently hacking on my own website.
+💡 You can't see the most of my repositories, so if you want to know me more, just contanct me ;).
 <br>
-<h2>Some Languages and Technologies I Have Used</h2>
+<h2>My lovely Languages and Technologies I Have Used</h2>
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="55" height="55" alt="golang-meygh" title="GO" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55" height="55" alt="php-meygh" title="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="javascript-meygh" title="Javascript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="nodejs-meygh" title="NodeJs" />
